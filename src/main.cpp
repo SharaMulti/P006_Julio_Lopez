@@ -1,7 +1,7 @@
 /*
  Amerike university
  Author: Julio López
- Practica #: 5
+ Practica #: 6
  Fecha: 28/02/25
  Description: This program shall be a simple calculator with the 4 main operation forms (this time using switch)
 */
